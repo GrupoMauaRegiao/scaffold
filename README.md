@@ -1,7 +1,6 @@
 scaffold
 ========
 
-<<<<<<< HEAD
 A scaffold for Static and Wordpress web projects.
 
 ## Resources
@@ -38,7 +37,6 @@ A scaffold for websites -- static and PHP based (WordPress).
 - [x] **Optional** deploy with ShellScript (you should to configure your `ssh` access to not having to enter the password every deploy -- *this does not provide here*)
 - [ ] WordPress theme scaffold
 - [ ] Tests
->>>>>>> upstream/master
 
 ## Install
 
@@ -50,11 +48,9 @@ rm -rfv .git
 git init # optional
 ```
 
-<<<<<<< HEAD
 *Uncomment the extensions that you wish in the `.gitignore`*
 =======
 *You should to uncomment the extensions that you want in the `.gitignore`*
->>>>>>> upstream/master
 
 ### Static
 
