@@ -16,8 +16,6 @@ A scaffold for Static and Wordpress web projects.
   * YUI Compressor: minify JavaScript and CSS
   * `grunt-shell` runs after everything to execute `rsync` to send files as specified in the `config`, with `deployit.sh` script
   * Docco for documentation of CoffeeScript
-=======
-A scaffold for websites -- static and PHP based (WordPress).
 
 ## Goals
 
@@ -49,8 +47,6 @@ git init # optional
 ```
 
 *Uncomment the extensions that you wish in the `.gitignore`*
-=======
-*You should to uncomment the extensions that you want in the `.gitignore`*
 
 ### Static
 
